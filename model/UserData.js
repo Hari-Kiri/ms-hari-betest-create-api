@@ -13,7 +13,7 @@ const UserData = () => {
             required: true
         },
         accountNumber: {
-            type: BigInt,
+            type: Number,
             unique: true,
             required: true
         },
@@ -23,7 +23,7 @@ const UserData = () => {
             required: true
         },
         identityNumber: {
-            type: BigInt,
+            type: Number,
             unique: true,
             required: true
         }
