@@ -1,25 +1,26 @@
 {
-  "name": "ms-hari-betest-create-api",
-  "version": "1.0.0",
-  "description": "Jenius Backend Developer CRUD Test - Create",
-  "main": "app.js",
-  "scripts": {
-    "test": "create"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Hari-Kiri/ms-hari-betest-create-api.git"
-  },
-  "keywords": [
-    "ms-hari-betest-create-api"
-  ],
-  "author": "Hari Yulianto Pratama",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Hari-Kiri/ms-hari-betest-create-api/issues"
-  },
-  "homepage": "https://github.com/Hari-Kiri/ms-hari-betest-create-api#readme",
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+	"name": "ms-hari-betest-create-api",
+	"version": "1.0.0",
+	"description": "Jenius Backend Developer CRUD Test - Create",
+	"main": "app.js",
+	"type": "module",
+	"scripts": {
+		"test": "create"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Hari-Kiri/ms-hari-betest-create-api.git"
+	},
+	"keywords": [
+		"ms-hari-betest-create-api"
+	],
+	"author": "Hari Yulianto Pratama",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Hari-Kiri/ms-hari-betest-create-api/issues"
+	},
+	"homepage": "https://github.com/Hari-Kiri/ms-hari-betest-create-api#readme",
+	"dependencies": {
+		"express": "^4.18.2"
+	}
 }
